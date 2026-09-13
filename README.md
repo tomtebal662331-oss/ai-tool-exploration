@@ -208,7 +208,7 @@ The current platform goes beyond static UI mockups toward full applications with
 🖼️ Visual Overview
 
 <p align="center">
-  <img src="assets/images/v0-workflow-overview.svg" width="950" alt="Vercel v0 workflow overview" />
+  <img src="assets/images/v0-workflow-overview.jpg" width="450" alt="Vercel v0 workflow overview" />
 </p>Recommended asset:
 
 assets/
@@ -406,7 +406,7 @@ Output:
 🖥️ Generated UI
 
 <p align="center">
-  <img src="assets/screenshots/v0-generated-dashboard.png" width="950" alt="Vercel v0 generated CRM dashboard" />
+  <img src="assets/screenshots/v0-generated-dashboard.jpg" width="450" alt="Vercel v0 generated CRM dashboard" />
 </p>Evidence
 
 
@@ -761,19 +761,19 @@ flowchart TD
 01 — Initial v0 Generation
 
 <p align="center">
-  <img src="assets/screenshots/v0-generated-dashboard.png" width="900" alt="Initial Vercel v0 CRM dashboard generation" />
+  <img src="assets/screenshots/v0-generated-dashboard.jpg" width="500" alt="Initial Vercel v0 CRM dashboard generation" />
 </p>---
 
 02 — Refined Version
 
 <p align="center">
-  <img src="assets/screenshots/v0-refined-dashboard.png" width="900" alt="Refined CRM dashboard generated with Vercel v0" />
+  <img src="assets/screenshots/v0-refined-dashboard.jpg" width="500" alt="Refined CRM dashboard generated with Vercel v0" />
 </p>---
 
 03 — Final Validated UI
 
 <p align="center">
-  <img src="assets/screenshots/final-dashboard.png" width="900" alt="Final validated CRM dashboard" />
+  <img src="assets/screenshots/v0-final-validated-ui.jpg" width="500" alt="Final validated CRM dashboard" />
 </p>---
 
 🔬 Before → After
